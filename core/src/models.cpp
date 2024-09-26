@@ -7,6 +7,7 @@
 #include <cstdlib>
 #include <vector>
 using namespace std;
+template <typename T>;
 
 string to_upper(const string& str){
     for(char& ch : str){
